@@ -1,4 +1,4 @@
-from Car import car
+from OOP.Car.Car import car
 
 
 car1 = car("Mustang", 2024, "Black", True)
